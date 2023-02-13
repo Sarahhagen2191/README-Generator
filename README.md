@@ -2,13 +2,13 @@
 App to create a README.md using node js
 
 # Table of Contents:
-License
-Installation
-Usage
-Demo
-Credits
-Licence
-MIT
+-License
+- Installation
+- Usage
+- Demo
+- Credits
+- Licence
+- MIT
 
 # Installation
 To install this app:
