@@ -19,7 +19,7 @@ Usage
 This application is used to create a professional README from the command line.
 
 # Demo
-Link to demo video - https://drive.google.com/drive/my-drive
+Link to demo video - https://drive.google.com/file/d/1rcSCQO5J3_dIJc2XxC1DJbohEhtzYps5/view?usp=share_link
 
 
 
