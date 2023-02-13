@@ -16,13 +16,12 @@ function generateMarkdown(data) {
   ## License
   ${data.license}
   ## Installation
-  ${data.installation}
-  
-  ## Usage
   To install dependancies please run the following command: 
   ${backticks}
-  ${data.usage}
+  ${data.installation}
   ${backticks}
+  ## Usage
+  ${data.usage}
   ## Contributing
   ${data.contributing}
   ## Tests
@@ -31,7 +30,7 @@ function generateMarkdown(data) {
   ${data.tests}
   ${backticks}
   ## Questions
-  If you have any questions about the repo, openn an issue or contact me
+  If you have any questions about the repo, open an issue or contact me
   directly at ${data.email}. You can find more of my work at ${data.github}.
 `;
 }
